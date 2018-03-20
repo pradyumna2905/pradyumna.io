@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           "/:title"
+
+# Setup
+title:               Pradyumna
+tagline:             ''
+description:         ''
+url:                 http://www.pradyumna.io
+baseurl:             
+paginate:            5
+
+# About/contact
+author:
+  name:              Pradyumna Shembekar
+  url:               https://twitter.com/pradyumna2905
+  email:             pradyumna2905@gmail.com
+
+# Custom vars
+# version:             1.0.0
+
