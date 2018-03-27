@@ -1,4 +1,8 @@
 .me {
-	border-radius: 50%;
-	padding: 20px;
+  border-radius: 50%;
+  padding: 20px;
+}
+
+.post-list {
+  list-style-type: none;
 }
