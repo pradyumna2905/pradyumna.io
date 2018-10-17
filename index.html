@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
+<div class="balance-notification">
+  I'm working on a personal finance app called <span class="bold">Balance</span>.
+</div>
 <div class="posts">
   {% for post in paginator.posts %}
   <ul class="post-list">
@@ -35,3 +38,19 @@ title: Home
   {% endif %}
 </div>
 
+
+<!-- Drip -->
+<script type="text/javascript">
+  var _dcq = _dcq || [];
+  var _dcs = _dcs || {};
+  _dcs.account = '6659087';
+
+  (function() {
+    var dc = document.createElement('script');
+    dc.type = 'text/javascript'; dc.async = true;
+    dc.src = '//tag.getdrip.com/6659087.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(dc, s);
+  })();
+</script>
+<!-- end Drip -->
