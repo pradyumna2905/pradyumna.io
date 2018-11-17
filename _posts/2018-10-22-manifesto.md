@@ -1,6 +1,7 @@
 ---
 title: Manifesto
 layout: post
+published: false
 ---
 
 Budgeting is funky - and I want to try and fix it
