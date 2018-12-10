@@ -15,7 +15,7 @@ may spend a lot of time on automating a small repetitive task.)
 
 I also love products, thinking about architectural design, and refactoring code.
 
-I am currently reading <a href="https://www.goodreads.com/book/show/6617037-debt" target="_blank">Debt: The First 5,000 Years</a>.
+I am currently reading <a href="https://www.goodreads.com/book/show/22668729-hooked" target="_blank">Hooked - How to Build Habit-Forming Products</a>.
 
 Here is my social precence.
 
