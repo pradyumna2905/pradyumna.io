@@ -4,7 +4,7 @@ layout: post
 published: true
 ---
 
-Let's see how we can test a GraphQL API in a robust and modular way in Ruby on Rails. If you are not familiar with GraphQL, the [GraphQL Documentation](http://graphql.org/learn/) and [GraphQL Ruby](http://graphql-ruby.org/) are good places to start.
+Let's see how we can test a GraphQL API in a robust and modular way in Ruby on Rails. If you are not familiar with GraphQL, the [GraphQL Documentation](http://graphql.org/learn/) and [GraphQL Ruby](http://graphql-ruby.org/) are good places to start. If you come from a JavaScript background, I recommend [Create a Secure Node.js GraphQL API](https://www.toptal.com/graphql/graphql-nodejs-api), an in-depth write-up, by the folks at Toptal to get you started.
 
 ## Assumptions
 1. Basic understanding of GraphQL terminology
