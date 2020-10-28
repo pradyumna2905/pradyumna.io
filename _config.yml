@@ -2,7 +2,7 @@
 title:               Pradyumna
 tagline:             ''
 description:         ''
-url:                 'http://www.pradyumna.io'
+url:                 'https://www.pradyumna.dev'
 baseurl:
 paginate:            5
 
@@ -10,6 +10,6 @@ paginate:            5
 author:
   name:              Pradyumna Shembekar
   url:               https://twitter.com/pradyumna2905
-  email:             pradyumna2905@gmail.com
+  email:             pradyumna@hey.com
 
 permalink: date
